@@ -27,4 +27,5 @@ String responseMessage = "Data is received by RabbitMqMessagingApp-A & B Project
 
 ![PostmanSaved](https://github.com/mehmettasgit/RabbitMQMessagingApp-A/assets/57155501/fd72ff25-f697-4b73-b4f6-b2462a142be6)
 
-
+Used Software:
+#Java11 #PostgreSQL #SpringBoot #RabbitMQ
